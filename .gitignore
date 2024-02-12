@@ -1,0 +1,4 @@
+db-mgmt-env/
+__pycache__/
+.vscode/
+.env
